@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public float VMVdistance;
+    public float HMVdistance; //these variables are meant to be MOVEMENT SPEED
+
     // Start is called before the first frame update
     void Start()
     {

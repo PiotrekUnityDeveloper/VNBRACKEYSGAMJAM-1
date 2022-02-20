@@ -50,6 +50,34 @@ public class PlayerMovement : MonoBehaviour
 
 
         }
+
+        if (Input.GetKey(KeyCode.W))
+        {
+            int i = ((int)HMVdistance * 1);
+
+            i += speedRValue;
+
+            if (this.gameObject.GetComponent<Rigidbody2D>().velocity.x < 0.5f && this.gameObject.GetComponent<Rigidbody2D>().velocity.x > -0.5f)
+            {
+                this.GetComponent<Rigidbody2D>().velocity = 1.1f /* dwd2a*/ * new Vector2(this.GetComponent<Rigidbody2D>().velocity.x, this.GetComponent<Rigidbody2D>().velocity.y + HMVdistance * i)/* * Time.deltaTime*/;
+            }
+
+
+        }
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            int i = ((int)HMVdistance * 1);
+
+            i += speedRValue;
+
+            if (this.gameObject.GetComponent<Rigidbody2D>().velocity.x < 0.5f && this.gameObject.GetComponent<Rigidbody2D>().velocity.x > -0.5f)
+            {
+                this.GetComponent<Rigidbody2D>().velocity = 1.1f /* dwd2a*/ * new Vector2(this.GetComponent<Rigidbody2D>().velocity.x, this.GetComponent<Rigidbody2D>().velocity.y - HMVdistance * i)/* * Time.deltaTime*/;
+            }
+
+
+        }
     }
 
     private int timeElapsed;
@@ -69,8 +97,8 @@ public class PlayerMovement : MonoBehaviour
             speedRValue = (int)Mathf.Lerp(HMVdistance - movementVariationScale, HMVdistance + movementVariationScale, timeElapsed / 2f);
             timeElapsed -= 1;
 
-
-            
+            //max value is 100 i believe
+            //SORRY FOR COMPLICATED CODE :3 IT WORKS! THATS WHAT MATTERS RIGHT?
         }
     }
 }

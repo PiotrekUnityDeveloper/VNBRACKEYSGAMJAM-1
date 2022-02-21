@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-0.21753159165382386,"y":-1.0839210748672486,"z":-0.6721302270889282},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":6.835101127624512,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-2.8749659061431886,"y":2.91961932182312,"z":-12.951894760131836},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":9.934582710266114,"orthographic":true}
 >>>>>>> parent of 3260082 (Complete Player Shooting System :))
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-6.073885440826416,"y":4.296539306640625,"z":-0.03962762653827667},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":0.8153042793273926,"orthographic":true}
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-6.073885440826416,"y":4.296539306640625,"z":-0.03962762653827667},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":0.8153042793273926,"orthographic":true}
 >>>>>>> parent of 76550c9 (Started the health system)

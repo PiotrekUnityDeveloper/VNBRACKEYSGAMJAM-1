@@ -125,7 +125,11 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &58483260
+=======
+--- !u!1 &567110201
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
 --- !u!1 &567110201
 >>>>>>> parent of 76550c9 (Started the health system)
@@ -148,6 +152,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &58483261
 Transform:
   m_ObjectHideFlags: 0
@@ -168,6 +173,11 @@ Transform:
 --- !u!1 &567110201
 >>>>>>> parent of 3260082 (Complete Player Shooting System :))
 GameObject:
+=======
+--- !u!50 &567110202
+Rigidbody2D:
+  serializedVersion: 4
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
 --- !u!50 &567110202
 Rigidbody2D:
@@ -348,6 +358,7 @@ Transform:
   - {fileID: 1458847167}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &834584650
@@ -504,6 +515,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &870637494
+=======
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &809946917 stripped
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -678,6 +694,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1747139166
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,6 +742,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 =======
 >>>>>>> parent of 3260082 (Complete Player Shooting System :))
+=======
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
 >>>>>>> parent of 76550c9 (Started the health system)
 --- !u!1 &1748189409
@@ -845,6 +864,7 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1915394621
@@ -1151,6 +1171,11 @@ Transform:
 --- !u!1001 &8415102948519131334
 PrefabInstance:
   m_ObjectHideFlags: 0
+=======
+--- !u!1001 &8415102948519131334
+PrefabInstance:
+  m_ObjectHideFlags: 0
+>>>>>>> parent of 76550c9 (Started the health system)
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
@@ -1221,4 +1246,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e60c4813d50f1f48a70bb0ae933829d, type: 3}
+<<<<<<< HEAD
+>>>>>>> parent of 76550c9 (Started the health system)
+=======
 >>>>>>> parent of 76550c9 (Started the health system)

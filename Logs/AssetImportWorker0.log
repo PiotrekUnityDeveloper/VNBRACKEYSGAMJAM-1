@@ -1217,10 +1217,13 @@ Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2822.
 Total: 2.912000 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.102900 ms MarkObjects: 2.520700 ms  DeleteObjects: 0.110800 ms)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
 =======
 >>>>>>> parent of 3260082 (Complete Player Shooting System :))
 =======
+=======
+>>>>>>> parent of 76550c9 (Started the health system)
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1231,4 +1234,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
+>>>>>>> parent of 76550c9 (Started the health system)
+=======
 >>>>>>> parent of 76550c9 (Started the health system)

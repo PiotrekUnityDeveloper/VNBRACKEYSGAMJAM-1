@@ -46,7 +46,10 @@
   </PropertyGroup>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
 >>>>>>> parent of 76550c9 (Started the health system)
   <PropertyGroup>
@@ -63,8 +66,14 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
   </ItemGroup>
 >>>>>>> parent of 3260082 (Complete Player Shooting System :))
+=======
+    <Compile Include="Assets\Scripts\PlayerShooting.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
+  </ItemGroup>
+>>>>>>> parent of 76550c9 (Started the health system)
 =======
     <Compile Include="Assets\Scripts\PlayerShooting.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />

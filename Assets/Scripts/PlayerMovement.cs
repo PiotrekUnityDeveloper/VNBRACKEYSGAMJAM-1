@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float VMVdistance = 2222;
-    public float HMVdistance = 2222; //these variables are meant to be MOVEMENT SPEED
+    public float VMVdistance = 75;
+    public float HMVdistance = 75; //these variables are meant to be MOVEMENT SPEED
+
+    
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +18,12 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //shooting stuff
+        //moved to ----> PlayerShooting.cs
+        
+
+        //put some return stuff that deals with movement here ;D
+
         if (Input.GetKey(KeyCode.W))
         {
             //this.gameObject.GetComponent<Rigidbody>().velocity = new Vector2(this.transform.position.x + HMVdistance, this.transform.position.y);

@@ -3,7 +3,10 @@ guid: 22268ba20d6560d4e9cd3427ea5a4c78
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - muzzle: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - bulletspawner: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

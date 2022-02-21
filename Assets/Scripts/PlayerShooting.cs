@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerShooting : MonoBehaviour
 {
-    [SerializeField] private GameObject muzzle;
     public GameObject bulletPrefab;
     [SerializeField] private GameObject bulletspawner;
 
@@ -23,7 +22,7 @@ public class PlayerShooting : MonoBehaviour
         Vector2 mouseOnScreen = (Vector2)Camera.main.ScreenToViewportPoint(Input.mousePosition);
         float targetangle = Mathf.Atan2(positionOnScreen.y - mouseOnScreen.y, positionOnScreen.x - mouseOnScreen.x) * Mathf.Rad2Deg;
 
-        muzzle.gameObject.transform.rotation = Quaternion.Euler(new Vector3(0f, 0f, targetangle)); //change ONLY the z rotation
+        this.gameObject.transform.rotation = Quaternion.Euler(new Vector3(0f, 0f, targetangle)); //change ONLY the z rotation
 
         if(Input.GetMouseButtonDown(0))
         {

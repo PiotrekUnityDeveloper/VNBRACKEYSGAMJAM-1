@@ -139,6 +139,7 @@ Received Import Request.
 Start importing Assets/Scripts/PlayerHealth.cs using Guid(748d509efc0d3f54a856cc7835413028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137736438a92644773e3683d7777536a') in 0.038631 seconds 
   Import took 0.042204 seconds .
 
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 513.902795 seconds.
@@ -356,3 +357,5 @@ Start importing Assets/Scripts/HealthSystem.cs using Guid(43a5158c5d4d3df42a8859
   Import took 0.028697 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+=======
+>>>>>>> parent of 3260082 (Complete Player Shooting System :))
